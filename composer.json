@@ -1,0 +1,12 @@
+{
+    "name": "airport-database/airportlist",
+    "description": "Display all the Airports worldwide",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AirportDatabase\\Airportlist\\": "src/"
+        }
+    },
+    "require": {}
+}
